@@ -1,0 +1,516 @@
+Initializing Datasets and Dataloaders...
+Device:  cuda:0
+Params to learn:
+         features.0.weight
+         features.0.bias
+         features.3.squeeze.weight
+         features.3.squeeze.bias
+         features.3.expand1x1.weight
+         features.3.expand1x1.bias
+         features.3.expand3x3.weight
+         features.3.expand3x3.bias
+         features.4.squeeze.weight
+         features.4.squeeze.bias
+         features.4.expand1x1.weight
+         features.4.expand1x1.bias
+         features.4.expand3x3.weight
+         features.4.expand3x3.bias
+         features.5.squeeze.weight
+         features.5.squeeze.bias
+         features.5.expand1x1.weight
+         features.5.expand1x1.bias
+         features.5.expand3x3.weight
+         features.5.expand3x3.bias
+         features.7.squeeze.weight
+         features.7.squeeze.bias
+         features.7.expand1x1.weight
+         features.7.expand1x1.bias
+         features.7.expand3x3.weight
+         features.7.expand3x3.bias
+         features.8.squeeze.weight
+         features.8.squeeze.bias
+         features.8.expand1x1.weight
+         features.8.expand1x1.bias
+         features.8.expand3x3.weight
+         features.8.expand3x3.bias
+         features.9.squeeze.weight
+         features.9.squeeze.bias
+         features.9.expand1x1.weight
+         features.9.expand1x1.bias
+         features.9.expand3x3.weight
+         features.9.expand3x3.bias
+         features.10.squeeze.weight
+         features.10.squeeze.bias
+         features.10.expand1x1.weight
+         features.10.expand1x1.bias
+         features.10.expand3x3.weight
+         features.10.expand3x3.bias
+         features.12.squeeze.weight
+         features.12.squeeze.bias
+         features.12.expand1x1.weight
+         features.12.expand1x1.bias
+         features.12.expand3x3.weight
+         features.12.expand3x3.bias
+         classifier.1.weight
+         classifier.1.bias
+  0%|          | 0/40 [00:00<?, ?it/s]
+Epoch 0/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3595 Acc: 0.0487
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3522 Acc: 0.0600
+Epoch 1/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3412 Acc: 0.0530
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.2996 Acc: 0.0552
+Epoch 2/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.2933 Acc: 0.0711
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3680 Acc: 0.0345
+Epoch 3/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3309 Acc: 0.0577
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.2756 Acc: 0.0690
+Epoch 4/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.1962 Acc: 0.1012
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.1383 Acc: 0.1011
+Epoch 5/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.0168 Acc: 0.1558
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 2.7838 Acc: 0.2315
+Epoch 6/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 2.7391 Acc: 0.2420
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 2.2815 Acc: 0.3959
+Epoch 7/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 2.4612 Acc: 0.3185
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 1.8682 Acc: 0.4577
+Epoch 8/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 1.5371 Acc: 0.5655
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 1.4956 Acc: 0.6034
+Epoch 9/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 1.0906 Acc: 0.6902
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.5736 Acc: 0.8330
+Epoch 10/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.8803 Acc: 0.7469
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.4369 Acc: 0.8686
+Epoch 11/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 1.2754 Acc: 0.6369
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.3162 Acc: 0.9132
+Epoch 12/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.3767 Acc: 0.8910
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.2262 Acc: 0.9370
+Epoch 13/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 1.3630 Acc: 0.6101
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 14/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3662 Acc: 0.0321
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3670 Acc: 0.0297
+Epoch 15/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 1.9840 Acc: 0.4303
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.2047 Acc: 0.9431
+Epoch 16/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.2477 Acc: 0.9283
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.1775 Acc: 0.9518
+Epoch 17/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.2249 Acc: 0.9359
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.2088 Acc: 0.9401
+Epoch 18/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 1.6879 Acc: 0.5189
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.1881 Acc: 0.9500
+Epoch 19/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.1844 Acc: 0.9467
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.1536 Acc: 0.9568
+Epoch 20/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.5842 Acc: 0.8404
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.1712 Acc: 0.9534
+Epoch 21/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.2192 Acc: 0.9384
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.1774 Acc: 0.9501
+Epoch 22/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+val Loss: 0.1287 Acc: 0.9636
+Epoch 25/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 0.1422 Acc: 0.9592
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 0.1251 Acc: 0.9637
+Epoch 26/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 2.9990 Acc: 0.1422
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 27/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0345
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 28/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0343
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 29/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0344
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 30/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0347
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 31/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3670 Acc: 0.0347
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 32/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3645 Acc: 0.0320
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3532 Acc: 0.0247
+Epoch 33/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3665 Acc: 0.0348
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 34/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0344
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 35/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0345
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 36/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0345
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 37/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0344
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 38/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0345
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Epoch 39/39
+----------
+  0%|          | 0/696 [00:00<?, ?it/s]
+100
+200
+300
+400
+500
+600
+train Loss: 3.3673 Acc: 0.0345
+  0%|          | 0/87 [00:00<?, ?it/s]
+val Loss: 3.3673 Acc: 0.0345
+Training complete in 95m 31s
+Best val Acc: 0.963678

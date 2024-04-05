@@ -1,0 +1,2 @@
+Model: resnet, Learning Rate= 0.02, Accuracy on the grey test set: 100.00%
+Model: resnet, Learning Rate= 0.02, Accuracy on the Kaggle test set: 85.71%

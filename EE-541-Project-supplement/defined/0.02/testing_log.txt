@@ -1,0 +1,2 @@
+Model: defined, Learning Rate= 0.02, Accuracy on the grey test set: 71.41%
+Model: defined, Learning Rate= 0.02, Accuracy on the Kaggle test set: 78.57%

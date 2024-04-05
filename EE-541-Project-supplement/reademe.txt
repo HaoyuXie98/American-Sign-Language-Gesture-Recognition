@@ -1,0 +1,52 @@
+EE-541 Final Project
+Name: Anusha Poorna, Haoyu Xie 
+
+demo.mp4                                                    # Show the functionalities of ASL web application 
+./defined                                                   # For self-defined model
+  ./0.02                                                    # For learning rate = 0.02
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+  ./0.002                                                   # For learning rate = 0.002
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+  ./0.0002                                                  # For learning rate = 0.0002
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+./Resnet                                                    # For Resnet model
+  ./0.02                                                    # For learning rate = 0.02
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+  ./0.002                                                   # For learning rate = 0.002
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+  ./0.0002                                                  # For learning rate = 0.0002
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+./Squeezenet                                                # For Squeezenet model
+  ./0.02                                                    # For learning rate = 0.02
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+  ./0.002                                                   # For learning rate = 0.002
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs
+  ./0.0002                                                  # For learning rate = 0.0002
+    ./training_and_val_loss.png                             # loss figure
+    ./training_and_val_accuracy.png                         # accuracy figure
+    ./training_log.txt                                      # traning logs
+    ./testing_log.txt                                       # testing logs

@@ -1,0 +1,2 @@
+Model: squeezenet, Learning Rate= 0.02, Accuracy on the grey test set: 96.28%
+Model: squeezenet, Learning Rate= 0.02, Accuracy on the Kaggle test set: 89.29%
